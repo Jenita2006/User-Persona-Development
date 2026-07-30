@@ -1,32 +1,26 @@
-# User-Persona-Development
 # User Persona Development
 
-## Objective
-To create a user persona for an online learning application.
+## Overview
 
-## User Profile
-- Name: Priya Sharma
-- Age: 20
-- Occupation: College Student
-- Location: Chennai, India
+User personas were created based on user research to represent the target audience for the mental health application. They help identify users' goals, behaviours, needs, and challenges, ensuring that design decisions remain focused on creating a user-centred and accessible experience.
 
-## Goals
-- Learn new skills
-- Track course progress
-- Prepare for placements
+## Purpose
 
-## Needs
-- Simple interface
-- Personalized recommendations
-- Progress tracking
+- Understand user needs and expectations
+- Identify common pain points
+- Guide design decisions
+- Improve usability and accessibility
 
-## Frustrations
-- Too many ads
-- Difficult navigation
-- Hard to find courses
+## Persona Details
 
-## Tool Used
-- Figma
+Each persona includes:
+- Name and background
+- Goals and motivations
+- Behaviours
+- Pain points
+- Needs and expectations
 
 ## Outcome
-Created a user persona to understand user needs and improve user experience.
+
+The user personas served as a reference throughout the design process, helping create features and interactions that align with real user needs and deliver a more intuitive and supportive user experience.
+```
